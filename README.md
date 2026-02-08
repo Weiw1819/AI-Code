@@ -2,16 +2,16 @@
 
 |名称|公司|CLI|IDE|插件|开源|-|
 |-|-|-|-|-|-|-|
-|Claude Code|Anthropic|✅|✅|✅|❎|-|K|
-|Open Code|-|❎|✅|✅|✅|https://github.com/anomalyco/opencode)|100K|
-|CodeX|OpenAI|✅|✅|✅|(https://github.com/openai/codex|60K|
-|Cline|-|-|✅|✅|https://github.com/cline/cline|58K|
-|Factory Droid|美国Factory AI|-|-|-|闭源|-|
-|Kilo Code|-|-|-|✅|https://github.com/Kilo-Org/kilocode/|15K|
-|Roo Code|-|-|-|-|-|https://github.com/RooCodeInc/Roo-Code|22K|
-|Crush|-|✅|-|-|-|https://github.com/charmbracelet/crush|20K|
-|Goose|-|-|✅|-|-|https://github.com/block/goose|30K|
-|Cursor|-|✅|✅|❎|❎|闭源|-|
-|Gemini CLI|Google|✅|-|-|-|https://github.com/google-gemini/gemini-cli|94K|
-|Grok CLI|-|✅|-|-|-|https://github.com/superagent-ai/grok-cli|3K|
-|Cherry studio|-|✅|❎|❎|✅|https://github.com/CherryHQ/cherry-studio|40K|
+|Claude Code|Anthropic|✅|✅|✅|闭源|-|
+|Open Code|Anomaly|✅|✅|✅|开源|https://github.com/anomalyco/opencode)|100K|
+|CodeX|OpenAI|✅|❌|✅|开源|https://github.com/openai/codex|60K|
+|Cline|美国Cline.bot|❌|❌|✅|开源|https://github.com/cline/cline|58K|
+|Factory Droid|美国加州Factory AI|✅|❌|❌|闭源|-|
+|Kilo Code|美国加州|❌|❌|✅|开源|https://github.com/Kilo-Org/kilocode/|15K|
+|Roo Code|美国加州|❌|❌|✅|开源|https://github.com/RooCodeInc/Roo-Code|22K|
+|Crush|-|✅|❌|❌|开源|https://github.com/charmbracelet/crush|20K|
+|Goose|美国|❌|✅|❌|开源|https://github.com/block/goose|30K|
+|Cursor|Anysphere|❌|✅|❌|闭源|-|
+|Gemini CLI|Google|✅|❌|❌|开源|https://github.com/google-gemini/gemini-cli|94K|
+|Grok CLI|xAI|✅|❌|❌|开源|https://github.com/superagent-ai/grok-cli|3K|
+|Cherry studio|-|✅|❌|❌|开源|https://github.com/CherryHQ/cherry-studio|40K|
