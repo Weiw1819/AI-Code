@@ -18,3 +18,5 @@
 |MonkeyCode|北京长亭科技(阿里)|❌|❌|❌|开源|https://github.com/chaitin/MonkeyCode|2K|
 |Zed|-|❌|✅|❌|开源|https://github.com/zed-industries/zed|75K|
 |OpenClaw|-|❌|❌|❌|开源|https://github.com/openclaw/openclaw|180K|
+|Blackbox.AI|加拿大/美国|❌|❌|❌|闭源|-|-|
+|kimi-cli|MoonshotAI|✅|❌|❌|开源|https://github.com/MoonshotAI/kimi-cli|7K|
