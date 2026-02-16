@@ -9,6 +9,7 @@
 |kimi|49 99 199|https://www.kimi.com/code|-|
 |腾讯CodeBuddy|-|https://www.codebuddy.cn/pricing|https://www.codebuddy.ai/pricing|
 
+![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-code.svg?style=social)
 
 |名称|公司|CLI|IDE|插件|开源|链接|star|
 |-|-|-|-|-|-|-|-|
