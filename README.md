@@ -13,7 +13,7 @@
 
 |名称|公司|CLI|IDE|插件|开源|链接|star|
 |-|-|-|-|-|-|-|-|
-|Claude Code|Anthropic|✅|✅|✅|闭源|https://github.com/anthropics/claude-code|![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-code.svg?style=social)|
+|Claude Code|Anthropic|✅|✅|✅|闭源|https://github.com/anthropics/claude-code|<img src="https://img.shields.io/github/stars/anthropics/claude-code.svg?style=social" width="150" />|
 |Open Code|Anomaly|✅|✅|✅|开源|https://github.com/anomalyco/opencode|![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode.svg?style=social)|
 |Codex CLI|OpenAI|✅|❌|✅|开源|https://github.com/openai/codex|![GitHub stars](https://img.shields.io/github/stars/openai/codex.svg?style=social)|
 |Cline|美国Cline.bot|❌|❌|✅|开源|https://github.com/cline/cline|![GitHub stars](https://img.shields.io/github/stars/cline/cline.svg?style=social)|
